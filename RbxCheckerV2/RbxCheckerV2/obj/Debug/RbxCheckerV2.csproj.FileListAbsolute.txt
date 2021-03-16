@@ -1,0 +1,10 @@
+C:\Users\crizz\source\repos\RbxCheckerV2\RbxCheckerV2\bin\Debug\RbxCheckerV2.exe.config
+C:\Users\crizz\source\repos\RbxCheckerV2\RbxCheckerV2\bin\Debug\RbxCheckerV2.exe
+C:\Users\crizz\source\repos\RbxCheckerV2\RbxCheckerV2\bin\Debug\RbxCheckerV2.pdb
+C:\Users\crizz\source\repos\RbxCheckerV2\RbxCheckerV2\obj\Debug\RbxCheckerV2.csprojAssemblyReference.cache
+C:\Users\crizz\source\repos\RbxCheckerV2\RbxCheckerV2\obj\Debug\RbxCheckerV2.Form1.resources
+C:\Users\crizz\source\repos\RbxCheckerV2\RbxCheckerV2\obj\Debug\RbxCheckerV2.Properties.Resources.resources
+C:\Users\crizz\source\repos\RbxCheckerV2\RbxCheckerV2\obj\Debug\RbxCheckerV2.csproj.GenerateResource.cache
+C:\Users\crizz\source\repos\RbxCheckerV2\RbxCheckerV2\obj\Debug\RbxCheckerV2.csproj.CoreCompileInputs.cache
+C:\Users\crizz\source\repos\RbxCheckerV2\RbxCheckerV2\obj\Debug\RbxCheckerV2.exe
+C:\Users\crizz\source\repos\RbxCheckerV2\RbxCheckerV2\obj\Debug\RbxCheckerV2.pdb
